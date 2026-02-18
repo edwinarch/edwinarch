@@ -7,7 +7,6 @@
 
 > [!NOTE] 
 > I'm not very good at software development.
-> My code is standard.
 
 > [!TIP]
 > basic programming skill.
