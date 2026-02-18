@@ -1,12 +1,16 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=edwinarch.edwinarch" />
 
+<p align="left">
+  <img src="./img/2024新年快乐.jpg" width="400">
+    <img src="./img/Image_177.jpeg" width="400">
+</p>
+
 > [!NOTE] 
 > I'm not very good at software development.
 > My code is standard.
 
 > [!TIP]
 > This is my most basic programming skill.
-
 
 <h1 edtxt="left">Tools⚒️</h1> <!--left,center,right-->
 <div edimage="left"> <!--left,center,right-->
