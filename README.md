@@ -1,8 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=edwinarch.edwinarch" />
 
 <p align="left">
-  <img src="./img/2024新年快乐.jpg" width="400">
-    <img src="./img/Image_177.jpeg" width="400">
+  <img src="./img/2024新年快乐.jpg" width="200">
+    <img src="./img/Image_177.jpeg" width="200">
 </p>
 
 > [!NOTE] 
