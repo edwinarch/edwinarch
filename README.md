@@ -3,6 +3,7 @@
 <p align="left">
   <img src="./img/2024新年快乐.jpg" width="250">
     <img src="./img/Image_177.jpeg" width="250">
+      <img src="./img/LB社生日聚会.png" width="232">
 </p>
 
 > [!NOTE] 
