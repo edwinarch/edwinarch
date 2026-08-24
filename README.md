@@ -9,9 +9,9 @@
 
 
 <p align="left">
-  <img src="./img/2024新年快乐.jpg" width="250">
-    <img src="./img/amashiro-natsuki-virtual-youtuber-thumb.jpg" width="250">
-      <img src="./img/LB社生日聚会.png" width="232">
+  <img src="./img/2024新年快乐.jpg" width="200">
+    <img src="./img/amashiro-natsuki-virtual-youtuber-thumb.jpg" width="200">
+      <img src="./img/LB社生日聚会.png" width="182">
 </p>
 
 > [!NOTE] 
